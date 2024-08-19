@@ -28,7 +28,36 @@ Problem-solving: Software engineering provides a systematic approach to solving 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
+1. _1968: NATO Software Engineering Conference_:
+The first Software Engineering Conference, sponsored by NATO, marked the birth of software engineering as a distinct field. This conference recognized software development as an engineering discipline, emphasizing the need for systematic approaches, methodologies, and tools.
+
+2. _1970s-1980s: Waterfall and Structured Programming_:
+The introduction of the Waterfall model and Structured Programming revolutionized software development. The Waterfall model introduced a linear, phase-by-phase approach, while Structured Programming emphasized modular, top-down design. These methodologies improved software quality, reduced errors, and enhanced maintainability.
+
+3. _1990s-2000s: Agile Methodologies and Extreme Programming (XP)_:
+The Agile Manifesto (2001) and Extreme Programming (XP) marked a significant shift towards iterative, incremental, and customer-centric approaches. Agile emphasized flexibility, collaboration, and rapid delivery, while XP introduced practices like pair programming, continuous integration, and test-driven development. These methodologies accelerated software development, improved responsiveness to change, and increased customer satisfaction.
+
 List and briefly explain the phases of the Software Development Life Cycle.
+
+The Software Development Life Cycle (SDLC) consists of the following phases:
+
+Planning: Define project scope, goals, timelines, budget, and resources.
+
+Requirements Gathering: Collect and document user requirements and expectations.
+
+Analysis: Examine and validate requirements to ensure clarity and feasibility.
+
+Design: Create detailed system design, architecture, and user interface.
+
+Implementation (Coding): Develop the software, writing code in chosen programming languages.
+
+Testing: Verify software meets requirements through unit testing, integration testing, and system testing.
+
+Deployment: Release software to production, configure, and install.
+
+Maintenance: Provide ongoing support, fix issues, and update software as needed.
+
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
